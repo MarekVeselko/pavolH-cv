@@ -107,7 +107,7 @@ padding-left: 5rem;
 }
 
 .contact__box p {
-    font-size: 1.35rem;
+    font-size: 1.5rem;
 }
 
 /*****SKUSENOSTI*****/
@@ -129,7 +129,7 @@ padding-left: 5rem;
 }
 
 .skusenosti__box .skusenosti__box--info--firma {
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     font-weight: bolder;
     margin: 1.1rem 0;
     font-style: italic;
@@ -137,7 +137,7 @@ padding-left: 5rem;
 }
 
 .skusenosti__box p{
-    font-size: 1.15rem;
+    font-size: 1.3rem;
     font-style: italic;
 }
 .skusenosti__box--cas{
@@ -157,20 +157,26 @@ padding-left: 5rem;
 .vzdelanie__box--box{
     margin-bottom: 1.5rem;
 }
+
 .vzdelanie__box--cas{
     font-weight: 900;
     display: flex;
-    width: 10rem;
+    width: 9rem;
     flex-direction: column;
     justify-content: center;
-    font-size: 1.25rem;
+    font-size: 1.3rem;
     font-style: italic;
 }
 
 .vzdelanie__box--skola{
     font-weight: 900;
-    font-size: 1.25rem;
+    font-size: 1.4rem;
     margin-bottom: .5rem;
+}
+
+.vzdelanie__box--mesto{
+font-size: 1.3rem;
+font-style: italic;
 }
 
 .vzdelanie__kurzy--title{
@@ -181,20 +187,32 @@ padding-left: 5rem;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    text-align: left;
     height: 5rem;
     margin-bottom: 1.5rem;
 }
 
 .vzdelanie__kurz--skola{
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     font-weight: bold;
 }
 .vzdelanie__kurz--institucia{
-    font-size: 1.1rem;
+    font-size: 1.3rem;
 }
 .vzdelanie__kurz--mesto{
-    font-size: 1rem;
+    font-size: 1.3rem;
     font-style: italic;
+}
+
+.vzdelanie__box--kurz-cas{
+    font-weight: 900;
+    display: flex;
+    width: 10rem;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 1.3rem;
+    font-style: italic;
+    width: 7rem;
 }
 
 /**************Zrucnosti***********/
@@ -214,7 +232,7 @@ padding-left: 5rem;
 }
 .zrucnosti__box div ul {
     margin: 0 0 0 4.5rem;
-    font-size: 1.4rem;
+    font-size: 1.5rem;
 }
 .zrucnosti__box div ul li {
     margin: .5rem 0;
@@ -253,6 +271,6 @@ padding-left: 5rem;
 }
 
 .jazyky__box p {
-   font-size: 1.5rem;
+   font-size: 1.7rem;
    font-weight: 900;
 }
