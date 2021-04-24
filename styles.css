@@ -13,7 +13,7 @@ body{
     color: #484848;
     font-family: 'Roboto', sans-serif;
     width: 1087px;
-    height: 1535px;
+    height: 1000px;
 }
 
 h2{
@@ -247,7 +247,9 @@ padding-left: 5rem;
 }
 .jazyky__box img{
     width: 2.5rem;
+    border-radius: 10px;
     margin-right: 2rem;
+    margin-top: -.4rem;
 }
 
 .jazyky__box p {
